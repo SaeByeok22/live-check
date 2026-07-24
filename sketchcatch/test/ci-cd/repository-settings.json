@@ -7,15 +7,15 @@
     "SKETCHCATCH_TF_STATE_KEY": "test/terraform.tfstate",
     "SKETCHCATCH_RELEASE_BUCKET": "sketchcatch-release-saebyeok22-live-check",
     "SKETCHCATCH_RDS_ENABLED": "false",
-    "SKETCHCATCH_STATIC_SITE_URL": "https://d3vhtcrjusyekw.cloudfront.net",
-    "SKETCHCATCH_API_BASE_URL": "https://d3vhtcrjusyekw.cloudfront.net",
+    "SKETCHCATCH_STATIC_SITE_URL": "https://d31479tc71p72a.cloudfront.net",
+    "SKETCHCATCH_API_BASE_URL": "https://d31479tc71p72a.cloudfront.net",
     "SKETCHCATCH_RELEASE_API_URL": "https://sketchcatch.net",
-    "SKETCHCATCH_PROJECT_ID": "d02f5921-ad32-4c8c-b902-5b17c0a382c2",
+    "SKETCHCATCH_PROJECT_ID": "3102db78-55cb-43ec-b302-6fb29d6a7fa5",
     "SKETCHCATCH_ASG_NAME": "",
     "SKETCHCATCH_STATIC_BUCKET": "",
     "SKETCHCATCH_CLOUDFRONT_DISTRIBUTION_ID": "",
     "SKETCHCATCH_CLOUDFRONT_ORIGIN_ID": "",
-    "SKETCHCATCH_CODEBUILD_PROJECT": "sketchcatch-d02f5921-build",
+    "SKETCHCATCH_CODEBUILD_PROJECT": "sketchcatch-3102db78-build",
     "SKETCHCATCH_ECR_REPOSITORY": "audience-live-check-api",
     "SKETCHCATCH_LAMBDA_FUNCTION": "",
     "SKETCHCATCH_LAMBDA_ALIAS": "",
@@ -24,7 +24,7 @@
     "SKETCHCATCH_ECS_CLUSTER": "audience-live-check-cluster",
     "SKETCHCATCH_ECS_SERVICE": "audience-live-check-service",
     "SKETCHCATCH_ECS_CONTAINER": "api",
-    "SKETCHCATCH_OUTPUT_URL": "https://d3vhtcrjusyekw.cloudfront.net"
+    "SKETCHCATCH_OUTPUT_URL": "https://d31479tc71p72a.cloudfront.net"
   },
   "secrets": [],
   "workflowFiles": [
